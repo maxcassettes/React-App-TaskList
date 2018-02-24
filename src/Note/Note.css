@@ -1,0 +1,23 @@
+.noteContent {
+    display:block;
+    float:left; 
+}
+
+.note {
+    margin:auto;
+    height:auto;
+    width: 60%;
+    font-size:3.4em;
+    padding:0px 0px 0px 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    text-overflow: wrap;
+}
+
+.removeBtn {
+    color:darkred;
+    font-weight: bold;
+    float:right; 
+    cursor: pointer;
+   
+}
